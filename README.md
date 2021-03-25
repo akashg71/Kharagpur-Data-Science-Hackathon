@@ -1,1 +1,2 @@
-# Kharagpur-Data-Science-Hackathon-Mengary-Revenue-Prediction
+Kharagpur Data Analytics Group presents  Kharagpur Data Science Hackathon
+                                    Sponsored by Airtel
