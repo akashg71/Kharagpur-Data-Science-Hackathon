@@ -1,0 +1,5 @@
+Objective
+Semantic image segmentation refers to the process of labelling each pixel of an image with a corresponding class of what is being represented.The 4-channel training mask images contains multi-class segmentations (road, buildings, vegetation,Green farms,Dry farms, barren land, water body and other). Your task is to extract the vegetation class, which has a pixel density (255, 201, 0, 255). Each mask contains vegetation. Masks are not allowed to overlap (no pixel belongs to two masks)
+
+Input
+There are zip files containing the satellite images and the respective masks. These images are of size 2048x1948. It is recommended to cut these images into parts of 512x512 (total: 16) before training the model. There are 441 images in the train set and 50 images in the test set.
